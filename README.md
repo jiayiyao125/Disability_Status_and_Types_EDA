@@ -1,1 +1,1 @@
-# Use-plotly-to-create-interactive-visualizations-in-Python
+# Use-python package plotly-to-create-interactive-visualizations-in-Python
